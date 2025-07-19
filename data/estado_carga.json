@@ -1,0 +1,182 @@
+[
+  {
+    "bloque": 1,
+    "offset": 0,
+    "estado": "EXITO",
+    "tuplas": 1000,
+    "intentos": 1,
+    "inicio": "2025-07-19T06:03:43.720Z",
+    "fin": "2025-07-19T06:03:44.509Z",
+    "error": null
+  },
+  {
+    "bloque": 2,
+    "offset": 1000,
+    "estado": "EXITO",
+    "tuplas": 1000,
+    "intentos": 1,
+    "inicio": "2025-07-19T06:03:44.509Z",
+    "fin": "2025-07-19T06:03:45.328Z",
+    "error": null
+  },
+  {
+    "bloque": 3,
+    "offset": 2000,
+    "estado": "EXITO",
+    "tuplas": 1000,
+    "intentos": 1,
+    "inicio": "2025-07-19T06:03:45.328Z",
+    "fin": "2025-07-19T06:03:46.368Z",
+    "error": null
+  },
+  {
+    "bloque": 4,
+    "offset": 3000,
+    "estado": "EXITO",
+    "tuplas": 1000,
+    "intentos": 1,
+    "inicio": "2025-07-19T06:03:46.368Z",
+    "fin": "2025-07-19T06:03:47.722Z",
+    "error": null
+  },
+  {
+    "bloque": 5,
+    "offset": 4000,
+    "estado": "EXITO",
+    "tuplas": 1000,
+    "intentos": 1,
+    "inicio": "2025-07-19T06:03:47.722Z",
+    "fin": "2025-07-19T06:03:49.253Z",
+    "error": null
+  },
+  {
+    "bloque": 6,
+    "offset": 5000,
+    "estado": "EXITO",
+    "tuplas": 1000,
+    "intentos": 1,
+    "inicio": "2025-07-19T06:03:49.253Z",
+    "fin": "2025-07-19T06:03:50.950Z",
+    "error": null
+  },
+  {
+    "bloque": 7,
+    "offset": 6000,
+    "estado": "EXITO",
+    "tuplas": 1000,
+    "intentos": 1,
+    "inicio": "2025-07-19T06:03:50.950Z",
+    "fin": "2025-07-19T06:03:52.977Z",
+    "error": null
+  },
+  {
+    "bloque": 8,
+    "offset": 7000,
+    "estado": "EXITO",
+    "tuplas": 1000,
+    "intentos": 1,
+    "inicio": "2025-07-19T06:03:52.977Z",
+    "fin": "2025-07-19T06:03:55.485Z",
+    "error": null
+  },
+  {
+    "bloque": 9,
+    "offset": 8000,
+    "estado": "EXITO",
+    "tuplas": 1000,
+    "intentos": 1,
+    "inicio": "2025-07-19T06:03:55.485Z",
+    "fin": "2025-07-19T06:03:59.901Z",
+    "error": null
+  },
+  {
+    "bloque": 10,
+    "offset": 9000,
+    "estado": "EXITO",
+    "tuplas": 643,
+    "intentos": 1,
+    "inicio": "2025-07-19T06:03:59.901Z",
+    "fin": "2025-07-19T06:04:03.816Z",
+    "error": null
+  },
+  {
+    "bloque": 11,
+    "offset": 10000,
+    "estado": "EXITO",
+    "tuplas": 0,
+    "intentos": 1,
+    "inicio": "2025-07-19T06:04:03.816Z",
+    "fin": "2025-07-19T06:04:06.027Z",
+    "error": null
+  },
+  {
+    "bloque": 12,
+    "offset": 11000,
+    "estado": "EXITO",
+    "tuplas": 0,
+    "intentos": 1,
+    "inicio": "2025-07-19T06:04:06.027Z",
+    "fin": "2025-07-19T06:04:08.217Z",
+    "error": null
+  },
+  {
+    "bloque": 13,
+    "offset": 12000,
+    "estado": "EXITO",
+    "tuplas": 0,
+    "intentos": 1,
+    "inicio": "2025-07-19T06:04:08.217Z",
+    "fin": "2025-07-19T06:04:10.412Z",
+    "error": null
+  },
+  {
+    "bloque": 14,
+    "offset": 13000,
+    "estado": "EXITO",
+    "tuplas": 0,
+    "intentos": 1,
+    "inicio": "2025-07-19T06:04:10.412Z",
+    "fin": "2025-07-19T06:04:12.621Z",
+    "error": null
+  },
+  {
+    "bloque": 15,
+    "offset": 14000,
+    "estado": "EXITO",
+    "tuplas": 0,
+    "intentos": 1,
+    "inicio": "2025-07-19T06:04:12.621Z",
+    "fin": "2025-07-19T06:04:14.864Z",
+    "error": null
+  },
+  {
+    "bloque": 16,
+    "offset": 15000,
+    "estado": "EXITO",
+    "tuplas": 0,
+    "intentos": 1,
+    "inicio": "2025-07-19T06:04:14.864Z",
+    "fin": "2025-07-19T06:04:17.060Z",
+    "error": null
+  },
+  {
+    "bloque": 17,
+    "offset": 16000,
+    "estado": "EXITO",
+    "tuplas": 0,
+    "intentos": 1,
+    "inicio": "2025-07-19T06:04:17.060Z",
+    "fin": "2025-07-19T06:04:19.256Z",
+    "error": null
+  },
+  {
+    "bloque": 18,
+    "offset": 17000,
+    "estado": "EXITO",
+    "tuplas": 0,
+    "intentos": 1,
+    "inicio": "2025-07-19T06:04:19.256Z",
+    "fin": "2025-07-19T06:04:21.447Z",
+    "error": null
+  }
+]

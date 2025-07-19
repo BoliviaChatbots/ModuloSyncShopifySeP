@@ -1,0 +1,437 @@
+[
+  {
+    "id": 291810508847,
+    "title": "NUESTRAS PUBLICACIONES",
+    "handle": "frontpage"
+  },
+  {
+    "id": 294687866927,
+    "title": "MEDICINA",
+    "handle": "medicina-interna"
+  },
+  {
+    "id": 295161069615,
+    "title": "NOVELA",
+    "handle": "novela"
+  },
+  {
+    "id": 295161102383,
+    "title": "VALORES",
+    "handle": "novela-1"
+  },
+  {
+    "id": 295441596463,
+    "title": "LABORATORIO",
+    "handle": "laboratorio"
+  },
+  {
+    "id": 295441629231,
+    "title": "VETERINARIA",
+    "handle": "veterinaria"
+  },
+  {
+    "id": 295809941551,
+    "title": "ANESTESIOLOGIA",
+    "handle": "anestesia-de-bolsillo-4ed"
+  },
+  {
+    "id": 295963263023,
+    "title": "BIOQUIMICA Y FARMACIA",
+    "handle": "bioquimica-y-farmacia"
+  },
+  {
+    "id": 296142536751,
+    "title": "PEDIATRIA",
+    "handle": "pediatria"
+  },
+  {
+    "id": 296211120175,
+    "title": "TEXTOS DE MEDICINA",
+    "handle": "textos-de-medicina"
+  },
+  {
+    "id": 296328298543,
+    "title": "PATOLOGIA",
+    "handle": "patologia"
+  },
+  {
+    "id": 296328364079,
+    "title": "DERMATOLOGIA",
+    "handle": "dermatologia"
+  },
+  {
+    "id": 296328396847,
+    "title": "ORTOPEDIA Y TRAUMATOLOGIA",
+    "handle": "ortopedia-y-traumatologia"
+  },
+  {
+    "id": 296328429615,
+    "title": "ESTETICA",
+    "handle": "estetica"
+  },
+  {
+    "id": 296328462383,
+    "title": "CIRUGIA",
+    "handle": "cirugia"
+  },
+  {
+    "id": 296328527919,
+    "title": "GINECOLOGIA Y OBSTETRICIA",
+    "handle": "ginecologia-y-obstetricia"
+  },
+  {
+    "id": 296328560687,
+    "title": "DIAGNOSTICO POR IMAGEN",
+    "handle": "diagnostico-por-imagen"
+  },
+  {
+    "id": 296328593455,
+    "title": "GASTROENTEROLOGIA",
+    "handle": "gastroenterologia"
+  },
+  {
+    "id": 296328626223,
+    "title": "CARDIOLOGIA",
+    "handle": "cardiologia"
+  },
+  {
+    "id": 296328658991,
+    "title": "ENFERMERIA",
+    "handle": "enfermeria"
+  },
+  {
+    "id": 296328691759,
+    "title": "OFTALMOLOGIA",
+    "handle": "oftalmologia"
+  },
+  {
+    "id": 296328724527,
+    "title": "NEONATOLOGIA",
+    "handle": "neonatologia"
+  },
+  {
+    "id": 296328757295,
+    "title": "PSICOLOGIA",
+    "handle": "psicologia"
+  },
+  {
+    "id": 296328790063,
+    "title": "CICLO COMUN",
+    "handle": "ciclo-comun"
+  },
+  {
+    "id": 296328822831,
+    "title": "ODONTOLOGIA",
+    "handle": "odontologia"
+  },
+  {
+    "id": 296328855599,
+    "title": "ONCOLOGIA",
+    "handle": "oncologia"
+  },
+  {
+    "id": 296328921135,
+    "title": "PSIQUIATRIA",
+    "handle": "psiquiatria"
+  },
+  {
+    "id": 296328953903,
+    "title": "ARQUITECTURA & PAISAJISMO",
+    "handle": "arquitectura"
+  },
+  {
+    "id": 296328986671,
+    "title": "DISEÑO INTEGRAL",
+    "handle": "diseno-integral"
+  },
+  {
+    "id": 296329019439,
+    "title": "DISEÑO GRAFICO",
+    "handle": "diseno-grafico"
+  },
+  {
+    "id": 296329052207,
+    "title": "CIENCIAS EMPRESARIALES",
+    "handle": "ciencias-empresariales"
+  },
+  {
+    "id": 296329117743,
+    "title": "CULTURAL GENERAL",
+    "handle": "cultural-general"
+  },
+  {
+    "id": 296329150511,
+    "title": "INDUSTRIAL",
+    "handle": "industrial"
+  },
+  {
+    "id": 296329183279,
+    "title": "MECANICA",
+    "handle": "mecanica"
+  },
+  {
+    "id": 296329248815,
+    "title": "MEDICINA GENERAL",
+    "handle": "medicina-general"
+  },
+  {
+    "id": 296329281583,
+    "title": "OTORRINOLARINGOLOGIA",
+    "handle": "otorrinolaringologia"
+  },
+  {
+    "id": 296329347119,
+    "title": "REUMATOLOGIA",
+    "handle": "reumatologia"
+  },
+  {
+    "id": 296329412655,
+    "title": "MEDICINA DE URGENCIA",
+    "handle": "medicina-de-urgencia"
+  },
+  {
+    "id": 296329445423,
+    "title": "BIOLOGIA",
+    "handle": "biologia"
+  },
+  {
+    "id": 296329478191,
+    "title": "DERECHO",
+    "handle": "derecho"
+  },
+  {
+    "id": 296329510959,
+    "title": "FISIOTERAPIA",
+    "handle": "fisioterapia"
+  },
+  {
+    "id": 296329543727,
+    "title": "ARTE",
+    "handle": "arte"
+  },
+  {
+    "id": 296329609263,
+    "title": "NEUROLOGIA",
+    "handle": "neurologia"
+  },
+  {
+    "id": 296329642031,
+    "title": "NUTRICION",
+    "handle": "nutricion"
+  },
+  {
+    "id": 296329707567,
+    "title": "CIVIL",
+    "handle": "civil"
+  },
+  {
+    "id": 296329740335,
+    "title": "ENDOCRINOLOGIA",
+    "handle": "endocrinologia"
+  },
+  {
+    "id": 296329773103,
+    "title": "NEFROLOGIA",
+    "handle": "nefrologia"
+  },
+  {
+    "id": 296329805871,
+    "title": "DISEÑO DE MODA",
+    "handle": "diseno-de-moda"
+  },
+  {
+    "id": 296329871407,
+    "title": "COCINA Y REPOSTERIA",
+    "handle": "cocina-y-reposteria"
+  },
+  {
+    "id": 296329936943,
+    "title": "ALIMENTOS",
+    "handle": "alimentos"
+  },
+  {
+    "id": 296329969711,
+    "title": "UROLOGIA",
+    "handle": "urologia"
+  },
+  {
+    "id": 296330002479,
+    "title": "PETROLERA",
+    "handle": "petrolera"
+  },
+  {
+    "id": 296330035247,
+    "title": "GERIATRIA Y GERONTOLOGIA",
+    "handle": "geriatria-y-gerontologia"
+  },
+  {
+    "id": 296330166319,
+    "title": "SALUD PUBLICA",
+    "handle": "salud-publica"
+  },
+  {
+    "id": 296330199087,
+    "title": "NEUMOLOGIA",
+    "handle": "neumologia"
+  },
+  {
+    "id": 296330231855,
+    "title": "TURISMO",
+    "handle": "turismo"
+  },
+  {
+    "id": 296330264623,
+    "title": "CIENCIAS DE LA EDUCACION",
+    "handle": "ciencias-de-la-educacion"
+  },
+  {
+    "id": 296330297391,
+    "title": "DISEÑO DE INTERIORES",
+    "handle": "diseno-de-interiores"
+  },
+  {
+    "id": 296330330159,
+    "title": "MANTENIMIENTO",
+    "handle": "mantenimiento"
+  },
+  {
+    "id": 296330362927,
+    "title": "ELECTROMECANICA",
+    "handle": "electromecanica"
+  },
+  {
+    "id": 296337047599,
+    "title": "NOVELA CLASICA, JUVENIL, CIENCIA FICCION, TERROR",
+    "handle": "clasicos"
+  },
+  {
+    "id": 296337178671,
+    "title": "TECNICA",
+    "handle": "tecnica"
+  },
+  {
+    "id": 296337211439,
+    "title": "DISEÑO INDUSTRIAL",
+    "handle": "diseno-industrial"
+  },
+  {
+    "id": 296337473583,
+    "title": "INFORMATICA",
+    "handle": "informatica"
+  },
+  {
+    "id": 296337539119,
+    "title": "LITERATURA",
+    "handle": "literatura"
+  },
+  {
+    "id": 296337604655,
+    "title": "CIENCIAS DE LA SALUD",
+    "handle": "ciencias-de-la-salud"
+  },
+  {
+    "id": 296337702959,
+    "title": "AMBIENTAL",
+    "handle": "ambiental"
+  },
+  {
+    "id": 296337735727,
+    "title": "QUIMICA",
+    "handle": "quimica"
+  },
+  {
+    "id": 296337768495,
+    "title": "FOTOGRAFIA",
+    "handle": "fotografia"
+  },
+  {
+    "id": 296337932335,
+    "title": "INGENIERIA",
+    "handle": "ingenieria"
+  },
+  {
+    "id": 296338653231,
+    "title": "MARKETINNG",
+    "handle": "marketinng"
+  },
+  {
+    "id": 296338751535,
+    "title": "ELECTRONICA",
+    "handle": "electronica"
+  },
+  {
+    "id": 296338849839,
+    "title": "AGRONOMIA",
+    "handle": "agronomia"
+  },
+  {
+    "id": 296338915375,
+    "title": "INFANTILES DE  0   10 AÑOS",
+    "handle": "kinder-garten"
+  },
+  {
+    "id": 296339013679,
+    "title": "FINANZAS",
+    "handle": "finanzas"
+  },
+  {
+    "id": 296339046447,
+    "title": "DEPORTES",
+    "handle": "deportes"
+  },
+  {
+    "id": 296339243055,
+    "title": "ECONOMIA",
+    "handle": "economia"
+  },
+  {
+    "id": 296339734575,
+    "title": "ADMINISTRACION",
+    "handle": "administracion"
+  },
+  {
+    "id": 296340062255,
+    "title": "SALUD",
+    "handle": "salud"
+  },
+  {
+    "id": 296900821039,
+    "title": "CLASICOS",
+    "handle": "clasicos-1"
+  },
+  {
+    "id": 296990474287,
+    "title": "SIN SUB CATEGORIA",
+    "handle": "sin-sub-categoria"
+  },
+  {
+    "id": 297492381743,
+    "title": "MEDICINA ALTERNATIVA",
+    "handle": "medicina-alternativa"
+  },
+  {
+    "id": 298249027631,
+    "title": "ARQUITECTURA",
+    "handle": "arquitectura-1"
+  },
+  {
+    "id": 301225279535,
+    "title": "GENERAL CULTURAL",
+    "handle": "general-cultural"
+  },
+  {
+    "id": 301225345071,
+    "title": "BACHILLERATO",
+    "handle": "bachillerato"
+  },
+  {
+    "id": 301225377839,
+    "title": "KINDER GARTEN",
+    "handle": "kinder-garten-1"
+  },
+  {
+    "id": 302697906223,
+    "title": "FORENSE",
+    "handle": "forense"
+  }
+]

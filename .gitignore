@@ -1,0 +1,13 @@
+# node.js
+node_modules/
+.env
+dist/
+*.log
+npm-debug.log*
+.DS_Store
+*.local
+# Si quieres ignorar todo en ERRORES pero mantener la carpeta, usa esto:
+/data/Errores/*
+!/data/Errores/.gitkeep
+/data/Respaldo/*
+!/data/Respaldo/.gitkeep
