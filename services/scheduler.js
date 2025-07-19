@@ -2,7 +2,7 @@ import cron from "node-cron";
 import { sincronizarProductos } from "../services/syncronify.js";
 
 export const iniciarScheduler = () => {
-  cron.schedule("*/30 * * * *", async () => {
+  cron.schedule("*/60 * * * *", async () => {
     console.log(
       "\x1b[32m%s\x1b[0m",
       `╔════════════════════════════════════════════════════════╗

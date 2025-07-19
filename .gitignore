@@ -9,5 +9,5 @@ npm-debug.log*
 # Si quieres ignorar todo en ERRORES pero mantener la carpeta, usa esto:
 /data/Errores/*
 !/data/Errores/.gitkeep
-/data/Respaldo/*
-!/data/Respaldo/.gitkeep
+/data/Respaldos/*
+!/data/Respaldos/.gitkeep
