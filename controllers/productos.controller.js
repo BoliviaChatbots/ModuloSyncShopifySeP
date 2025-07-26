@@ -150,6 +150,7 @@ export const obtenerAllProductos = async (req, res) => {
             inventory_quantity: variante.inventory_quantity || 0,
           },
         ],
+        images: producto.images,
       };
     });
 
@@ -309,6 +310,12 @@ export const compararProductos = async () => {
       (v) => v.sku === skuLocal
     );
     const varianteLocal = localProducto.variants[0];
+    // Buscar si tiene foto (en Shopify). OPCION 1.Verificar si hay imagen principal
+    //const tieneImagenPrincipal = productoShopify.image !== null;
+    // 2. Verificar si hay imágenes en el arreglo
+    const tieneImagenes =
+      Array.isArray(productoShopify.images) &&
+      productoShopify.images.length > 0;
 
     // Comparar datos clave
     const difPrecio =
@@ -319,18 +326,24 @@ export const compararProductos = async () => {
     const difTitulo = productoShopify.title !== localProducto.title;
     const difEditorial = productoShopify.vendor !== localProducto.vendor;
 
-    if (difPrecio || difStock || difTitulo || difEditorial) {
-      // console.log(`✏️  Producto para modificar: ${localProducto.title}`);
-      // if (difPrecio)
-      //   console.log(
-      //     ` 💲  Precio diferente: Shopify=${varianteShopify.price}, Local=${varianteLocal.price}`
-      //   );
-      // if (difStock)
-      //   console.log(
-      //     `  📦  Stock diferente: Shopify=${varianteShopify.inventory_quantity}, Local=${varianteLocal.inventory_quantity}`
-      //   );
-      // if (difTitulo) console.log(`  🏷️  Título diferente`);
-      // if (difEditorial) console.log(`  📖  Editorial diferente`);
+    if (difPrecio || difStock || difTitulo || difEditorial || !tieneImagenes) {
+      console.log(
+        `✏️  Producto para modificar: [`,
+        parseInt(productoShopify.handle),
+        `]`,
+        productoShopify.title
+      );
+      if (difPrecio)
+        console.log(
+          ` 💲  Precio diferente: Shopify=${varianteShopify.price}, Local=${varianteLocal.price}`
+        );
+      if (difStock)
+        console.log(
+          `  📦  Stock diferente: Shopify=${varianteShopify.inventory_quantity}, Local=${varianteLocal.inventory_quantity}`
+        );
+      if (difTitulo) console.log(`  🏷️  Título diferente`);
+      if (difEditorial) console.log(`  📖  Editorial diferente`);
+      if (!tieneImagenes) console.log(`  📸  No tiene Foto `);
 
       // Si lo encuantra y EXISTEN diferencias lo guarda
       cambios.push({

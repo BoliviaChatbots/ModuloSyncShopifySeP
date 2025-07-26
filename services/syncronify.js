@@ -17,7 +17,7 @@ const ruta = path.join(outputDir, "booksync.json");
 export const sincronizarProductos = async () => {
   console.log("🔍 Sincronizando productos...");
   respaldarArchivo(ruta);
-  //await getConnection();
+  await getConnection();
   const resultado = await iniciarCargaMasterLocal();
 
   // Paso 1: Obtener productos de SQL Server
